@@ -1,0 +1,4 @@
+pyobjc-framework-Quartz
+pyobjc-core
+pyobjc
+pyautogui
